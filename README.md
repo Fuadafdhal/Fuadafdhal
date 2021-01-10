@@ -8,7 +8,7 @@ Hi, I'm Junior Android Developer from indonesian. And i'm java and kotlin enthus
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fuadafdhal" />
 </a>
 
-
+<br/>
 <br/>
 
 ---
