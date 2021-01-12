@@ -14,4 +14,8 @@ Hi, I'm Junior Android Developer from indonesian. And i'm java and kotlin enthus
 ---
 
 ## Find me around the web 🌎 <a href="https://github.com/Fuadafdhal"><img align="left" width="130" height="130" src="https://github.com/Fuadafdhal/Fuadafdhal/blob/main/gif/icon-git.gif?raw=true"></a>
-   - My Contact on <a href="https://www.linkedin.com/in/muh-fuad-afdhal-a5531a175/">LinkedIn</a> 💼
+
+<br/>
+
+   - Linkedin : https://www.linkedin.com/in/muh-fuad-afdhal-a5531a175/
+   - Instagram : https://www.instagram.com/afdhal_fa/
