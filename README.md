@@ -3,6 +3,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/Fuadafdhal-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/muh-fuad-afdhal-a5531a175/)](https://www.linkedin.com/in/muh-fuad-afdhal-a5531a175)
 [![Instagram Badge](https://img.shields.io/badge/Fuadafdhal-blueviolet?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/afdhal_fa/)](https://www.instagram.com/afdhal_fa)
+[![Steam Badge](https://img.shields.io/badge/NOMAD-blue?style=flat&logo=Steam&logoColor=white&link=https://s.team/p/fhwk-gpkp/NTWJQPKJ)](https://s.team/p/fhwk-gpkp/NTWJQPKJ)
 
 
 
